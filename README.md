@@ -3,6 +3,10 @@ The Virtual Security Operations Center : AI Tinkerers NYC Hackathon Feb 2025
 
 Welcome to the V-SOC wiki!
 
+[Background](#background)
+
+[Rules](#golden-rules)
+
 
 # Background
 
