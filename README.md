@@ -5,7 +5,7 @@ Welcome to the V-SOC wiki!
 
 [Background](#background)
 
-[Rules](#golden-rules)
+[Golden Rules for Functionality](#golden-rules)
 
 
 # Background
